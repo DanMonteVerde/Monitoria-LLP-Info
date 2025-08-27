@@ -1,9 +1,3 @@
-Boa! 🔥 entendi — você quer a **proposta/descrição do problema de cada código** que te passei, como se fosse o enunciado da atividade. Assim você pode apresentar o desafio primeiro, deixar ele tentar, e só depois mostrar a solução.
-
-Aqui estão os enunciados de cada um:
-
----
-
 ## 🔹 Condicionais
 
 **1. Maioridade (`se`)**
