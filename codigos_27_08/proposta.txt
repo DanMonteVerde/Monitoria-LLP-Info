@@ -1,0 +1,65 @@
+Boa! 🔥 entendi — você quer a **proposta/descrição do problema de cada código** que te passei, como se fosse o enunciado da atividade. Assim você pode apresentar o desafio primeiro, deixar ele tentar, e só depois mostrar a solução.
+
+Aqui estão os enunciados de cada um:
+
+---
+
+## 🔹 Condicionais
+
+**1. Maioridade (`se`)**
+👉 Faça um algoritmo que leia a idade de uma pessoa e escreva na tela se ela é maior de idade.
+
+**2. Par ou Ímpar (`se/senao`)**
+👉 Faça um algoritmo que leia um número inteiro e mostre se ele é par ou ímpar.
+
+**3. Avaliação por Nota (`se` encadeado)**
+👉 Faça um algoritmo que leia a nota de um aluno e mostre:
+
+* “Aprovado” se a nota for maior ou igual a 7;
+* “Recuperação” se a nota for maior ou igual a 5 e menor que 7;
+* “Reprovado” se a nota for menor que 5.
+
+---
+
+## 🔹 Repetições
+
+**4. Contagem com `para`**
+👉 Faça um algoritmo que imprima os números de 1 até 10 usando a estrutura `para`.
+
+**5. Contagem com `enquanto`**
+👉 Faça um algoritmo que imprima os números de 1 até 10 usando a estrutura `enquanto`.
+
+**6. Contagem com `repita`**
+👉 Faça um algoritmo que imprima os números de 1 até 10 usando a estrutura `repita`.
+
+---
+
+## 🔹 Condicional + Laço
+
+**7. Positivos com `repita`**
+👉 Faça um algoritmo que leia 10 números inteiros e mostre apenas os que forem positivos.
+
+**8. Contar maiores de idade com `enquanto`**
+👉 Faça um algoritmo que leia a idade de 5 pessoas e mostre no final quantas são maiores de idade.
+
+---
+
+## 🔹 Projeto Final
+
+**9. Menu interativo com `repita` + condicionais**
+👉 Faça um algoritmo que mostre o seguinte menu:
+
+```
+1 - Somar
+2 - Subtrair
+0 - Sair
+```
+
+O usuário deve escolher uma opção.
+
+* Se escolher 1: o programa pede dois números e mostra a soma.
+* Se escolher 2: o programa pede dois números e mostra a subtração.
+* Se escolher 0: o programa termina.
+* Se digitar outra opção: mostrar mensagem de erro.
+
+---
